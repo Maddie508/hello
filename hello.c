@@ -1,7 +1,7 @@
 /**
  * Author: Erin Hughey
  *        ehughey2@huskers.unl.edu
- * Date: 2021/08/24
+ * Date: 2021/08/26
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("\n");
+  printf("Computer Engineering\n");
 
   return 0;
 }
