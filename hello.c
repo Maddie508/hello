@@ -1,6 +1,9 @@
 /**
- * Author: Erin Hughey
- *        ehughey2@huskers.unl.edu
+ * Authors: Erin Hughey
+ *              ehughey2@huskers.unl.edu
+ *          Aden Hester
+ *              ahester2@huskers.unl.edu
+ * 
  * Date: 2021/08/26
  *
  * A simple hello world program in C
@@ -11,7 +14,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Computer Engineering\n");
+  printf("Erin Hughey\nComputer Engineering\n");
+  printf("Aden Hester\nComputer Science\n");
 
   return 0;
 }
